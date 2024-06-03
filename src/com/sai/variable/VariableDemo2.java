@@ -18,7 +18,7 @@ public class VariableDemo2 {
         }
         // System.out.println(a);
         System.out.println(age);
-        int a = 23;
+        // int a = 23;
         // int age = 25;
 
         // 4、变量定义的时候可以不赋初始值，但在使用时，变量里必须有值，否则报错

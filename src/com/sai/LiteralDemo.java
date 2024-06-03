@@ -24,7 +24,7 @@ public class LiteralDemo {
 
         // 4、字符串：必须用双引号围起来，里面的内容其实可以随意
         System.out.println("我爱你中国abc");
-        System.out.println("");
+        // System.out.println("");
         System.out.println("  ");
         System.out.println("我");
 
