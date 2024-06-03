@@ -16,6 +16,6 @@ public class NoteDemo {
             低头思故乡。
          */
         System.out.println("播仔");
-        System.out.printf("dlei");
+        System.out.println("dlei");
     }
 }
